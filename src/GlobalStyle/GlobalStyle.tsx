@@ -26,7 +26,3 @@ export const GlobalStyle = createGlobalStyle`
         color: inherit;
     }
 `;
-
-
-
-

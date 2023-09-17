@@ -3,10 +3,7 @@ import { Container } from "./style";
 export const Footer = () => {
   return (
     <Container>
-      Desenvolvido por{" "}
-      <a href="https://www.linkedin.com/in/leonardo-c-xavier/">
-        Leonardo Xavier
-      </a>
+      Desenvolvido por <a href="https://www.wallabs.com.br/">Wallabs</a>
     </Container>
   );
 };

@@ -1,51 +1,32 @@
 [
-    {
-        "social": "instagram",
-        "link": "",
-        "description": "Instagram",
-        "img": "/media/instagram.svg"
-    },
-    {
-        "social": "linkedin",
-        "link": "",
-        "description": "Linkedin",
-        "img": "/media/linkedin.svg"
-    },
-    {
-        "social": "github",
-        "link": "",
-        "description": "Github",
-        "img": "/media/github.svg"
-    },
-    {
-        "social": "discord",
-        "link": "",
-        "description": "Discord",
-        "img": "/media/discord.svg"
-    },
-    {
-        "social": "twitter",
-        "link": "",
-        "description": "Twitter",
-        "img": "/media/twitter.svg"
-    },
-    {
-        "social": "dev.to",
-        "link": "",
-        "description": "dev.to",
-        "img": "/media/devto.svg"
-    },
-    {
-        "social": "email",
-        "link": "",
-        "description": "email",
-        "img": "/media/email.svg"
-    },
-    {
-        "social": "cv",
-        "link": "",
-        "description": "CV",
-        "img": "/media/download.svg"
-    }
-
+  {
+    "social": "whatsapp",
+    "link": "https://api.whatsapp.com/send?phone=5595991540707",
+    "description": "Whatsapp",
+    "img": "/media/whatsapp.svg"
+  },
+  {
+    "social": "instagram",
+    "link": "https://www.instagram.com/adriana_limafran",
+    "description": "Instagram",
+    "img": "/media/instagram.svg"
+  },
+  {
+    "social": "facebook",
+    "link": "https://www.facebook.com/profile.php?id=100089573650793",
+    "description": "Facebook",
+    "img": "/media/facebook.svg"
+  },
+  {
+    "social": "tiktok",
+    "link": "https://www.tiktok.com/@adriana_limafran",
+    "description": "Tiktok",
+    "img": "/media/tiktok.svg"
+  },
+  {
+    "social": "email",
+    "link": "mailto:fal.adrianalima@gmail.com",
+    "description": "email",
+    "img": "/media/email.svg"
+  }
 ]
